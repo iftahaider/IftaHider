@@ -11,7 +11,7 @@ I'm an MBA candidate in Finance, passionate about leveraging data and technology
 
 Here are some of the projects I've built to deepen my practical skills:
 
--   **[DCF Valuation Model: Nike (NKE)](https://github.com/YourUsername/dcf-valuation-nike)** | Excel, Python
+-   **[DCF Valuation Model: Walton Hi-Tech Industries PLC](https://github.com/iftahaider/dcf-valuation-walton)** | Excel, Python
     > A detailed valuation project featuring a 3-statement financial model, WACC calculation, and sensitivity analysis.
 -   **[Algorithmic Trading Strategy Backtester](https://github.com/YourUsername/ma-backtester)** | Python (Pandas)
     > A Python script that backtests a moving average crossover strategy on ETF data and calculates performance metrics.
