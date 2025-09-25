@@ -27,6 +27,6 @@ Here are some of the projects I've built to deepen my practical skills:
 
 ## 📫 Let's Connect
 
--   LinkedIn: iftahaider/iftahaider.github.io
+-   LinkedIn: https://www.linkedin.com/in/iftahiderrahman/
 
 *“The best investment you can make is in yourself.” – Warren Buffett*
